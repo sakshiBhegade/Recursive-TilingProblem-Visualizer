@@ -37,7 +37,7 @@ This command compiles the main.cpp source file and links it with the SDL2 and SD
 
 4.**Run the Program**:
 Execute your script run.sh to run the program:
-   ```shell
+   
    ./run.sh
 
 The script should launch the program for tiling problem visualization.
