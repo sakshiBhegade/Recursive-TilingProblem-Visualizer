@@ -30,8 +30,8 @@ Follow these steps to set up and run the Tiling Problem Visualization program on
 
 3.**Compile the Code**:
 Use your C++ compiler to build the program. If you're using g++, you can compile it with the following command:
-```shell
-g++ main.cpp -o tiling_problem -lSDL2 -lSDL2_image
+   ```shell
+   g++ main.cpp -o tiling_problem -lSDL2 -lSDL2_image
   
 This command compiles the main.cpp source file and links it with the SDL2 and SDL2_image libraries. Make sure you have these libraries installed on your system. Adjust the compilation command according to your system's C++ compiler and library configuration if necessary.
 
