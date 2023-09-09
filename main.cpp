@@ -65,12 +65,6 @@ int tile(int n, int x, int y) {
     return 0;
 }
 
-// ... (rest of the code remains unchanged)
-
-
-// ... (rest of the code remains unchanged)
-
-
 bool initSDL() {
     if (SDL_Init(SDL_INIT_VIDEO) < 0) {
         std::cerr << "SDL could not initialize! SDL_Error: " << SDL_GetError() << std::endl;
