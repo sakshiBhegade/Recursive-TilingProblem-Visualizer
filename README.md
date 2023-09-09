@@ -1,7 +1,7 @@
 # Tiling Problem Visualization
 
 This repository contains a C++ program that tackles tiling problems using a recursive algorithm and provides visualizations using the SDL (Simple DirectMedia Layer) library.
-![Tiling-Problem-Visualisation](output.mov)
+
 ## Introduction
 
 Tiling problems involve dividing a given grid into smaller tiles or patterns in various ways. This project provides a visual representation of tiling solutions by employing a recursive algorithm. Users can interact with the program by clicking on the grid to mark tiles as empty (black), triggering the algorithm to recalculate and visualize the tiling process.
