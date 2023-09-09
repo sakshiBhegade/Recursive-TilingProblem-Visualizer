@@ -22,7 +22,6 @@ Follow these steps to set up and run the Tiling Problem Visualization program on
 
 1. **Clone the Repository**:
 
-   ```shell
    git clone https://github.com/sakshiBhegade/Recursive-TilingProblem-Visualizer.git
    
 2.**Navigate to the Project Directory**:
